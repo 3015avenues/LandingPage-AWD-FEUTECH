@@ -1,0 +1,45 @@
+#resume_outer_div{
+width: 100%;
+height: 100%;
+border: solid;
+}
+
+#inner_div{
+margin: 10px;
+}
+
+#resume{
+font-family: arial;
+text-align: center;
+}
+
+#objective{
+background-color: rgb(255, 202, 232);
+border: solid;
+}
+
+#skills{
+background-color: rgb(255, 208, 236);
+border: solid;
+}
+
+#educational_qualifications{
+background-color: rgb(255, 208, 235);
+border: solid;
+}
+
+table{
+width: 100%;
+border-collapse: collapse;
+}
+
+table td, th{
+border: 1px solid;
+text-align: center;
+}
+
+
+#professional_achievements{
+background-color: rgb(255, 210, 235);
+border: solid;
+}
